@@ -1,0 +1,2 @@
+# demopages
+demo static pages
